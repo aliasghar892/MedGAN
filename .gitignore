@@ -1,0 +1,6 @@
+TODO.txt
+.vscode
+__pycache__
+logs/*
+dataset/A/*
+dataset/B/*
